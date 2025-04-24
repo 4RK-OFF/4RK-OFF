@@ -5,13 +5,6 @@
 ---  
 <br>
 
-<p align="center">
-  <img src="4RK.png" alt="Regain Poem - 4RK-OFF" width="40%">
-</p>
-
----  
-<br>
-
 ## What is 4RK-OFF?
 
 **4RK-OFF** is a rebellion-as-protocol.  
