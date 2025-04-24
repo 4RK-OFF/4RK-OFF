@@ -1,4 +1,4 @@
-# 4RK-OFF Philosophy
+# 4RK-OFF
 
 > **"Be consensus and work on solution — or 4RK-OFF."**
 
